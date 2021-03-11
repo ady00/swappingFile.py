@@ -1,0 +1,3 @@
+two two two
+this is sample2 text
+It should now be in sample1
